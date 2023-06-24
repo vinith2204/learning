@@ -6,6 +6,8 @@ System.out.println("HELLO WORLD");
   public static void function(){
     System.out.println("BYE world");
 }
-  public static void fun(){}
+
+  puclic static void fun(){}
+
 
 }
