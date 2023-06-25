@@ -7,7 +7,10 @@ System.out.println("HELLO WORLD");
     System.out.println("BYE world");
 }
 
-  puclic static void fun(){}
+  puclic static void fun()
+    {
+    System.out.println("i am adding this function in branch 2");
+  }
 
 
 }
